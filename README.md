@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @binhngiyen
 - 👀 I’m interested in CÔNG NGHỆ THÔNG TIN 
 - 🌱 I’m currently learning Lập Trình Web 
-- 📫 How to reach me SĐT: 0834251608
-
+- 📫 How to reach me
 FB:
 https://www.facebook.com/profile.php?id=100076616613736
 
