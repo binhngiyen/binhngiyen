@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @binhngiyen
-- 👀 I’m interested in CÔNG NGHỆ THÔNG TIN 
-- 🌱 I’m currently learning Lập Trình Web 
-- 📫 How to reach me
+- 👋 Xin chào! Toi là @binhngiyen
+- 👀 Toi đang tập trung vào CÔNG NGHỆ THÔNG TIN 
+- 🌱 Toi hiện đang học Lập Trình Web 
+- 📫 Cách liên hệ với Toi
 FB:
 https://www.facebook.com/profile.php?id=100076616613736
 
